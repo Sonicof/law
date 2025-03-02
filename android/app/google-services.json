@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537192272463",
+    "project_id": "law1-fb4bd",
+    "storage_bucket": "law1-fb4bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537192272463:android:b668b9fca17df5bda5503a",
+        "android_client_info": {
+          "package_name": "com.flutterflow.nyaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ3cebD8CHwU5g5-jVrd-ogIfe7Bzda0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

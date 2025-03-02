@@ -1,0 +1,20 @@
+// Export pages
+export '/components/pages/gemini_chat_page/gemini_chat_page_widget.dart'
+    show GeminiChatPageWidget;
+export '/components/pages/home/home_widget.dart' show HomeWidget;
+export '/components/pages/lawyer/lawyer_widget.dart' show LawyerWidget;
+export '/account_profile_creation/auth_2_create/auth2_create_widget.dart'
+    show Auth2CreateWidget;
+export '/account_profile_creation/auth_2_login/auth2_login_widget.dart'
+    show Auth2LoginWidget;
+export '/account_profile_creation/auth_2_forgot_password/auth2_forgot_password_widget.dart'
+    show Auth2ForgotPasswordWidget;
+export '/account_profile_creation/auth_2_create_profile/auth2_create_profile_widget.dart'
+    show Auth2CreateProfileWidget;
+export '/account_profile_creation/auth_2_profile/auth2_profile_widget.dart'
+    show Auth2ProfileWidget;
+export '/account_profile_creation/auth_2_edit_profile/auth2_edit_profile_widget.dart'
+    show Auth2EditProfileWidget;
+export '/components/pages/news_detail/news_detail_widget.dart'
+    show NewsDetailWidget;
+export '/components/pages/maps/maps_widget.dart' show MapsWidget;
